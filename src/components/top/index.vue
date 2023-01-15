@@ -44,7 +44,7 @@ export default {
       }
     },
     togithub() {
-      window.open("https://github.com/fanfankill/UiProject", "_blank");
+      window.open("https://github.com/Ethan-Psc/CreateUI", "_blank");
     },
   },
 };
