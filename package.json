@@ -8,6 +8,9 @@
     "lint": "vue-cli-service lint",
     "lib": "vue-cli-service build --target lib --name createUI --dest lib src/UI/index.js"
   },
+  "engines": {
+    "node": "~16.17.0"
+  },
   "dependencies": {
     "@highlightjs/vue-plugin": "^1.0.2",
     "core-js": "^3.6.5",
